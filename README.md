@@ -1,4 +1,4 @@
-# Aplicación Web de Visualización de Datos de Venta de Coches
+# Aplicación Web Interactiva de Visualización de Datos de Venta de Coches
 
 Desarrollada con **Pandas**, **Plotly Express** y **Streamlit**
 

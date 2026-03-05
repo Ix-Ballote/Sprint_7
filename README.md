@@ -1,6 +1,6 @@
 # Aplicación Web de Visualización de Datos de Venta de Coches
 
-Desarrollada con **Python**, **Pandas** y **Streamlit**
+Desarrollada con **Pandas**, **Plotly Express** y **Streamlit**
 
 ***
 
@@ -12,13 +12,14 @@ Esta aplicación web permite explorar de forma interactiva un conjunto de datos 
 
 ## 📂 Fuente de Datos
 
-Se utiliza el archivo vehicles_us.csv, que contiene información detallada sobre vehículos a la venta. Algunas columnas relevantes del dataset incluyen:
+Se utiliza el archivo <code>vehicles_us.csv</code>, que contiene información detallada sobre vehículos a la venta. Algunas columnas relevantes del dataset incluyen:
 
-* model: Marca del vehículo
-* price: Precio en dólares (USD)
-* odometer: Kilometraje registrado
-* condition: Condición general del vehículo
-* type, transmission, fuel, paint_color, entre otras
+* <code>price</code>: Precio en dólares (USD)
+* <code>model_year</code>: Año de lanzamiento
+* <code>model</code>: Marca del vehículo
+* <code>condition</code>: Condición general del vehículo
+* <code>odometer</code>: Kilometraje registrado
+* <code>fuel</code>, <code>transmission</code>, <code>type</code>, <code>paint_color</code>, entre otras
 
 
 **¿Para qué sirve esta aplicación?**

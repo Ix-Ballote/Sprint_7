@@ -21,6 +21,8 @@ Se utiliza el archivo <code>vehicles_us.csv</code>, que contiene información de
 * <code>odometer</code>: Kilometraje registrado
 * <code>fuel</code>, <code>transmission</code>, <code>type</code>, <code>paint_color</code>, entre otros.
 
+***
+
 ## ⚙️ Funcionalidades de la Aplicación
 
 ### 🔘 Botones Interactivos

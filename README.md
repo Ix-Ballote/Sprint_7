@@ -29,7 +29,6 @@ Se utiliza el archivo <code>vehicles_us.csv</code>, que contiene información de
 
 * **Histograma general**:
     Muestra la cantidad de vehículos en función de su kilometraje total.
-
 * **Gráfico de dispersión**:
     Compara el precio de los vehículos con respecto a su kilometraje total recorrido.
 

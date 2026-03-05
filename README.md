@@ -1,10 +1,16 @@
 # Aplicación Web de Visualización de Datos de Venta de Coches
 
-GitHub: https://github.com/Ix-Ballote/Sprint_7.git
+Desarrollada con **Python**, **Pandas** y **Streamlit**
 
-Render: https://sprint-7-k70w.onrender.com
+***
 
-Este proyecto consiste en una aplicación web interactiva desarrollada con Python y la librería Streamlit. Su objetivo principal es facilitar la exploración y el análisis visual de un conjunto de datos de anuncios de venta de coches.
+📄 Descripción del Proyecto
+
+---
+
+Esta aplicación web permite explorar de forma interactiva un conjunto de datos sobre vehículos usados, facilitando el análisis visual a través de gráficos generados dinámicamente. Está pensada como una herramienta de apoyo para la comprensión de patrones en el mercado de autos en venta.
+
+***
 
 **¿Para qué sirve esta aplicación?**
 

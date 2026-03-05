@@ -4,9 +4,7 @@ Desarrollada con **Python**, **Pandas** y **Streamlit**
 
 ***
 
-📄 Descripción del Proyecto
-
----
+## 📄 Descripción del Proyecto
 
 Esta aplicación web permite explorar de forma interactiva un conjunto de datos sobre vehículos usados, facilitando el análisis visual a través de gráficos generados dinámicamente. Está pensada como una herramienta de apoyo para la comprensión de patrones en el mercado de autos en venta.
 

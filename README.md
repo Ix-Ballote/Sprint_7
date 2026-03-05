@@ -28,13 +28,14 @@ Se utiliza el archivo <code>vehicles_us.csv</code>, que contiene información de
 ### 🔘 Botones Interactivos
 
 * **Histograma general**:
-    Muestra la distribución de precios por marca de vehículo.
+    Muestra la cantidad de vehículos en función de su kilometraje total.
 
 * **Gráfico de dispersión**:
-    Compara el precio promedio de los vehículos por cada marca.
+    Compara el precio de los vehículos con respecto a su kilometraje total recorrido.
 
 ### ✅ Casillas de verificación
-* Permite activar y desactivar la visualización del histograma o gráfico de dispersión
+* **Histograma**: Muestra la distribución de vehículos según su año de modelo.
+* **Gráfico de dispersión**: Muestra la evolución del precio de los vehículos según su año de modelo.
 
 ***
 

@@ -19,25 +19,33 @@ Se utiliza el archivo <code>vehicles_us.csv</code>, que contiene información de
 * <code>model</code>: Marca del vehículo
 * <code>condition</code>: Condición general del vehículo
 * <code>odometer</code>: Kilometraje registrado
-* <code>fuel</code>, <code>transmission</code>, <code>type</code>, <code>paint_color</code>, entre otras
+* <code>fuel</code>, <code>transmission</code>, <code>type</code>, <code>paint_color</code>, entre otros.
 
+## ⚙️ Funcionalidades de la Aplicación
 
-**¿Para qué sirve esta aplicación?**
+### 🔘 Botones Interactivos
 
-Esta aplicación web permite a los usuarios:
+* **Histograma general**:
+    Muestra la distribución de precios por marca de vehículo.
 
-* **Visualizar la distribución de los kilómetros recorridos (odómetro):** A través de un histograma interactivo, los usuarios pueden entender la frecuencia con la que aparecen diferentes rangos de kilometraje en los vehículos del conjunto de datos.
-* **Analizar la relación entre el precio y el kilometraje:** Un gráfico de dispersión permite identificar posibles tendencias o correlaciones entre el precio de los coches y la cantidad de kilómetros que han recorrido.
-* **Explorar la distribución de los años de fabricación:** Mediante otro histograma, los usuarios pueden visualizar la cantidad de coches disponibles para cada año de fabricación presente en los datos.
-* **Comparar el precio con el año de fabricación:** Un segundo gráfico de dispersión ayuda a investigar si existe alguna relación entre el año en que se fabricó un coche y su precio de venta.
+* **Gráfico de dispersión**:
+    Compara el precio promedio de los vehículos por cada marca.
 
-**Funcionalidades principales:**
+### ✅ Casillas de verificación
+* Permite activar y desactivar la visualización del histograma o gráfico de dispersión
 
-La aplicación proporciona las siguientes funcionalidades interactivas:
+***
 
-* **Botones para generar gráficos específicos:** Los usuarios pueden hacer clic en botones para mostrar u ocultar histogramas del odómetro y gráficos de dispersión de precio vs. odómetro.
-* **Casillas de verificación para visualizaciones adicionales:** Mediante casillas de verificación, los usuarios pueden activar o desactivar la visualización de histogramas del año de fabricación y gráficos de dispersión de precio vs. año de fabricación.
-* **Gráficos interactivos:** Los gráficos generados con Plotly Express son totalmente interactivos, permitiendo a los usuarios hacer zoom, desplazar, pasar el ratón sobre los puntos para ver detalles y descargar los gráficos como imágenes.
-* **Interfaz intuitiva:** La interfaz de usuario es sencilla y fácil de usar, lo que permite a cualquier persona explorar los datos sin necesidad de conocimientos técnicos avanzados en programación o análisis de datos.
+### 🌐 Enlace a la Aplicación Web
 
-En resumen, esta aplicación web es una herramienta útil para cualquier persona interesada en comprender mejor las características y los precios de los coches que se anuncian para la venta, utilizando visualizaciones interactivas y fáciles de interpretar.
+Haz clic aquí para abrir la app:
+👉 https://sprint-7-k70w.onrender.com/
+
+***
+
+## 🛠️ Tecnologías Utilizadas
+
+* **Python**
+* **Pandas**
+* **Plotly Express**
+* **Streamlit**

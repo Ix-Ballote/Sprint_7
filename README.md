@@ -36,6 +36,8 @@ Se utiliza el archivo <code>vehicles_us.csv</code>, que contiene información de
 * **Histograma**: Muestra la distribución de vehículos según su año de modelo.
 * **Gráfico de dispersión**: Muestra la evolución del precio de los vehículos según su año de modelo.
 
+Nota: Todos los gráficos son interactivos
+
 ***
 
 ### 🌐 Enlace a la Aplicación Web

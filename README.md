@@ -10,6 +10,17 @@ Esta aplicación web permite explorar de forma interactiva un conjunto de datos 
 
 ***
 
+## 📂 Fuente de Datos
+
+Se utiliza el archivo vehicles_us.csv, que contiene información detallada sobre vehículos a la venta. Algunas columnas relevantes del dataset incluyen:
+
+* model: Marca del vehículo
+* price: Precio en dólares (USD)
+* odometer: Kilometraje registrado
+* condition: Condición general del vehículo
+* type, transmission, fuel, paint_color, entre otras
+
+
 **¿Para qué sirve esta aplicación?**
 
 Esta aplicación web permite a los usuarios:
